@@ -39,7 +39,7 @@ Unter dem Link https://stormboard.com/storm/1901659/IAP findet sich unser Storyb
 ## 2.1. Overview
 SPÄTER
 
-### 2.2. Functional requirements
+## 2.2. Functional requirements
 ### 2.2.1 Arena:
 Begrenztes 2D Feld auf dem sich Player und Monster bewegen und interagieren. Die Arena kann je nach Fortschritt unterschiedliche Darstellungen annehmen.
 
@@ -123,7 +123,7 @@ Ein Score, der am Ende einer Runde basierend auf Zeit, gesammelten XP und Troph�
 % If a request is found to be unreachable, it will be marked as unreachable
 % BEFORE PLANNING the TASKS in SCRUM MEETINGS, the requirement is specified in detail.
 
-### 2.3. Nonfunctional requirements
+## 2.3. Nonfunctional requirements
 * 30 fps mindestens auf einem System mit mindestens 4 GB RAM.
 * Es soll pro Spielstunde höchstens einmal abstürzen.
 
@@ -248,9 +248,9 @@ Das Spiel muss auf einem Computer installiert werden, welcher als Betriebssystem
 ### 2.3.5. Resource issues
 In den Optionen gibt es die Möglichkeit, die maximale Anzahl an FPS einzustellen.
 
-### 2.4. Pseudo requirements (???)
+## 2.4. Pseudo requirements (???)
 
-### 2.5. System models
+## 2.5. System models
 
 ### 2.5.1. Scenarios (???)
 
@@ -270,4 +270,4 @@ Klassen Diagram ist in [Trello](https://trello.com/b/HKFQ7We0/iap-computerspiel)
 ### 2.5.5. User-interface -- navigational paths and screen mock-ups
 Mockups sind in [Trello](https://trello.com/b/HKFQ7We0/iap-computerspiel) unter Design und Research aufzufinden.
 
-### 3. Glossary
+## 3. Glossary
